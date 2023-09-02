@@ -26,9 +26,12 @@ Commercial application written for a startup. I created the layout, added the ma
      <td><img src="https://github.com/Chewbacca-14/Taxi-App-Info/blob/main/Screenshot_20230830_163444.jpg?raw=true" alt="Image 1"></td>
         <td><img src="https://github.com/Chewbacca-14/Taxi-App-Info/blob/main/Screenshot_20230830_163437.jpg?raw=true" alt="Image 1"></td>
   </tr>
-   <tr>
+    <tr>
+     <td><img src="https://github.com/Chewbacca-14/Taxi-App-Info/blob/main/Screenshot_20230830_163428.jpg?raw=true" alt="Image 1"></td>
+   
+  </tr>
  
-      <td><img src="https://github.com/Chewbacca-14/Taxi-App-Info/blob/main/Screenshot_20230830_163428.jpg?raw=true" alt="Image 1"></td>
+     
  
  
 </table>
